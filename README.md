@@ -10,9 +10,9 @@
 
 #### DMP是啥？
 
-&emsp;&emsp;DMP是我瞎取的。就是“寡民计划”的英文（Decrease Man Plan），毕竟叫DPP（Decrease People Plan）太怪了。至于寡民计划计划这个词，是整个书的线索了。你可以看一下[wiki](/man-thing/DMP.md)。<br />
+&emsp;&emsp;DMP是我瞎取的。就是“寡民计划”的英文（Decrease Man Plan），毕竟叫DPP（Decrease People Plan）太怪了。至于寡民计划计划这个词，是整个书的线索了。你可以看一下[wiki](https://fortune-liu.github.io/DMP-wiki/man-thing/DMP.md)。<br />
 &emsp;&emsp;话说，这个想法也是妙手偶得之呢。<br />
 
 #### 这个~~劣质~~Wiki能干什么？
 
-&emsp;&emsp;这里可以是[您读我的小说](/novel/README.md)、看不懂我的小说时求助以及[玩我自制小游戏的地方](/game/README.md)<br />
+&emsp;&emsp;这里可以是[您读我的小说](https://fortune-liu.github.io/DMP-wiki/novel/README.md)、看不懂我的小说时求助以及[玩我自制小游戏的地方](https://fortune-liu.github.io/DMP-wiki/game/README.md)<br />
